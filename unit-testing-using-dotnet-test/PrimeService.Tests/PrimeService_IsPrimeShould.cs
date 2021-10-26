@@ -6,6 +6,7 @@ namespace Prime.UnitTests.Services
     public class PrimeService_IsPrimeShould
     {
         [Fact]
+
         public void IsPrime_InputIs1_ReturnFalse()
         {
             var primeService = new PrimeService();
@@ -13,6 +14,7 @@ namespace Prime.UnitTests.Services
 
             Assert.False(result, "1 should not be prime");
         }
+       
     }
 
 }
