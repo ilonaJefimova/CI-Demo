@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\unit-testing-using-dotnet-test",
+    "\\unit-testing-using-dotnet-test\\PrimeService",
+    "\\unit-testing-using-dotnet-test\\PrimeService.Tests"
+  ],
+  "PreviewInSolutionExplorer": false
+}
